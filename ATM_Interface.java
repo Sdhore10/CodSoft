@@ -92,7 +92,7 @@ import java.util.Scanner;
 		    }
 		}
 
-		public class ATM_Interface {
+		public class ATM_interface {
 
 			public static void main(String[] args) {
 				System.out.println("Welcome to the ATM!");
